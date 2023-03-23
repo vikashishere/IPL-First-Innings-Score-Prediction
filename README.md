@@ -1,4 +1,10 @@
-# IPL First Innings Score Prediction - Deployment
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+# IPL First Innings Score Prediction
 
-• This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ .
+## Overview
+* This is an end to end Machine Learning based regression project with an app interface made with help of Flask. Taking few input values, this will predict the score for the first innings. Demo given below.
+
+https://user-images.githubusercontent.com/86545677/227159095-f0634a04-ddb8-436a-8d9b-068f53cbe327.mp4
+
+
+## Tasks Performed
+* Performed EDA, feature engineering, handling missing values, statistical analysis, data visualization, categorical encoding etc.
